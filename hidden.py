@@ -8,3 +8,5 @@ def oauth():
             "consumer_secret": "dNKenAC3New...mmn7Q",
             "token_key": "10185562-eibxCp9n2...P4GEQQOSGI",
             "token_secret": "H0ycCFemmC4wyf1...qoIpBo"}
+
+# token secret can be kept in an encrypted module
